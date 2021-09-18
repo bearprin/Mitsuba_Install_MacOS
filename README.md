@@ -119,12 +119,12 @@ Now you will see **Mitsuba application icon in /mitsuba root directory. Move it 
 
    - It support **multi-threads**
 
-   ![image-20210918161404945](img/thread.png)
+   ![image-20210918161404945](thread.png)
 
     **Cbox scene**
 
    <center>
-	  <img src='img/cbox.png'>
+	  <img src='cbox.png'>
    </center>
 
 

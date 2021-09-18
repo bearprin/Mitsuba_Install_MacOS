@@ -2,7 +2,7 @@
 
 This document provides my working process of **installing the latest Mitsuba renderer 0.6.0 on macOS with Anaconda**. 
 
-I have borrowed some ideas from https://github.com/ShilinC/Mitsuba_Install_MacOS, thanks for his works!
+I have borrowed some ideas from https://github.com/ShilinC/Mitsuba_Install_MacOS. Thank for his works!
 
 **The latest Mitsuba version is 0.6.0 on GitHub, which has not been put on the official website**.
 
